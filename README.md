@@ -1,6 +1,7 @@
 # Counter app using ReactJs
 
 - This is a simple counter app built with React. It allows you to increment a count, reset the count to zero, and change the background color of the app.
+- i am starting my journey with reactjs from here
 
 ## Features
 
